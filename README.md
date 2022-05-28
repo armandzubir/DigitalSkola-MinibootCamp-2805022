@@ -4,7 +4,7 @@
 
 Ingest Data from API with Json format and from csv files
 
-for notebook demo, please check steps.ipynb file:
+for notebook demo, please check <a href="https://github.com/armandzubir/DigitalSkola-MinibootCamp-2805022/blob/master/steps.ipynb">steps.ipynb</a> file:
 ```c
 https://github.com/armandzubir/DigitalSkola-MinibootCamp-2805022/blob/master/steps.ipynb
 ```
